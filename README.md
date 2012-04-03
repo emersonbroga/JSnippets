@@ -8,5 +8,3 @@ Snippets:
 
 * SetTimeout and SetInterval
  * How to use and implement setTimeout and Set Interval
-
-
